@@ -54,4 +54,4 @@ python3 main.py solid "What are the SOLID principles?" programming
 
 - The system message helps set the behavior of the assistant
 
-***Options***: `default` and `programming`
+***System options***: `default` and `programming`
